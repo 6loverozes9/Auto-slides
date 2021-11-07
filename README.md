@@ -1,2 +1,2 @@
 # Cards
-Optional
+Basic front-end project
